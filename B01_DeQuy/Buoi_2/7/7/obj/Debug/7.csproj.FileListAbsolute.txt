@@ -1,2 +1,0 @@
-E:\c#\7\7\obj\Debug\7.csproj.AssemblyReference.cache
-E:\c#\7\7\obj\Debug\7.csproj.CoreCompileInputs.cache

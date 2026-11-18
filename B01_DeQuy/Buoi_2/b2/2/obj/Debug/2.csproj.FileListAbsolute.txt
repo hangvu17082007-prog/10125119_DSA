@@ -1,7 +1,0 @@
-E:\c#\2\2\bin\Debug\2.exe.config
-E:\c#\2\2\bin\Debug\2.exe
-E:\c#\2\2\bin\Debug\2.pdb
-E:\c#\2\2\obj\Debug\2.csproj.AssemblyReference.cache
-E:\c#\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
-E:\c#\2\2\obj\Debug\2.exe
-E:\c#\2\2\obj\Debug\2.pdb
