@@ -1,0 +1,7 @@
+E:\c#\thdsa\thdsa\bin\Debug\thdsa.exe.config
+E:\c#\thdsa\thdsa\bin\Debug\thdsa.exe
+E:\c#\thdsa\thdsa\bin\Debug\thdsa.pdb
+E:\c#\thdsa\thdsa\obj\Debug\thdsa.csproj.AssemblyReference.cache
+E:\c#\thdsa\thdsa\obj\Debug\thdsa.csproj.CoreCompileInputs.cache
+E:\c#\thdsa\thdsa\obj\Debug\thdsa.exe
+E:\c#\thdsa\thdsa\obj\Debug\thdsa.pdb
